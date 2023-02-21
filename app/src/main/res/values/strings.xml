@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Form_BTVN_buoi4</string>
+
+    <string-array name="levels_array">
+        <item>Tiểu học</item>
+        <item>Trung học</item>
+        <item>Đại học</item>
+    </string-array>
+</resources>
